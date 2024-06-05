@@ -1,3 +1,3 @@
 # GreenHive
 
-## Submission to Code Red Hackathon
+Submission to Code Red Hackathon
